@@ -1,0 +1,18 @@
+opt_G:
+  input_nc: 3
+  output_nc: 3
+  ngf: 64
+  which_model_netG: twodecoder_unet
+  norm: batch
+  no_dropout: True
+  init_type: normal
+opt_D:
+  input_nc: 6
+  output_nc: 3
+  ndf: 64
+  which_model_netD: n_layers
+  n_layers: 3
+  norm: batch
+  no_dropout: True
+  init_type: normal
+  use_sigmoid: False

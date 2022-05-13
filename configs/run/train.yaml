@@ -1,0 +1,17 @@
+opt_run:
+  stage: train
+  checkpoints_dir: /home/congz3414050/cong/media/results
+  continue_train: False
+  which_epoch: 0
+  lr_G: 0.0001
+  lr_D: 0.0003
+  lr_policy: cosine
+  lr_decay_iters: 70
+  lambda_content: 0.75
+  lambda_l1: 10
+  batchSize: 9
+  n_epoch: 100
+  gpu_ids: [0]
+  warmup: False
+  warmup_epochs: 20
+  lr_decay_rate: 0.8

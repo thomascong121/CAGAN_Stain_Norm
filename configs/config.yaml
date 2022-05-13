@@ -1,0 +1,4 @@
+defaults:
+  - dataset: cam16
+  - run: train
+  - model: unet_resunet
