@@ -19,7 +19,7 @@ We provide several pretrained trained models.
 We also provide our train-test [splits](https://drive.google.com/drive/folders/14eIMNuP2hqJKkJWF_McMKhsbzQpLmEj0?usp=sharing).
 
 | method | Dataset | url |
-|-------------------|-------------------|---------------------|--------------------|--------------------|
+|-------------------|-------------------|--------------------|
 | CAGAN | TCGA-IDH | [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) |
 | CAGAN | BreakHis | [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) | 
 | CAGAN | CAMELYON16| [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) | 
