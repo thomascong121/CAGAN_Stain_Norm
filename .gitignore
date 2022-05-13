@@ -1,6 +1,7 @@
 # Environments
 .env
 .venv
+.idea/
 env/
 venv/
 ENV/
@@ -10,3 +11,11 @@ venv.bak/
 /results/cam16/
 /results/unet_resunet_breakhisf5/
 /results/unet_resunet_camelyon/
+/outputs/
+/data/CAMELYON16/Raboud/
+/data/CAMELYON16/Utrecht/
+/data/CAMELYON17/data/center_0/
+/data/CAMELYON17/data/center_1/
+/data/CAMELYON17/data/center_2/
+/data/CAMELYON17/data/center_3/
+/data/CAMELYON17/data/center_4/

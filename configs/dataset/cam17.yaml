@@ -4,7 +4,7 @@ opt_dataset:
   use_color: gray
   crop: False
   name: cam17
-  all_data_dataframe: /home/congz3414050/cong/media/results/unet_resunet_camelyon/normalised_cam17/60/center_4.csv
+  all_data_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/results/unet_resunet_camelyon/normalised_cam17/60/center_4.csv
   image_index: 0
   label_index: 1
   num_class: 2

@@ -4,11 +4,11 @@ opt_dataset:
   use_color: gray
   crop: False
   name: cam16
-  source_dataframe: /home/congz3414050/cong/media/data/CAMELYON16/train/source.csv
-  target_dataframe: /home/congz3414050/cong/media/data/CAMELYON16/train/target.csv
-  test_dataframe: /home/congz3414050/cong/media/data/CAMELYON16/test/test.csv
-  train_dataframe: /home/congz3414050/cong/media/data/CAMELYON16/train/train.csv
-  P_mask: /home/congz3414050/cong/media/results/visuals/cam16_2.png
+  source_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/CAMELYON16/train/source.csv
+  target_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/CAMELYON16/train/target.csv
+  test_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/CAMELYON16/test/test.csv
+  train_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/CAMELYON16/train/train.csv
+  P_mask: /home/congz3414050/cong/CAGAN_Stain_Norm/results/visuals/cam16_2.png
   image_index: 0
   label_index: 1
   num_class: 2

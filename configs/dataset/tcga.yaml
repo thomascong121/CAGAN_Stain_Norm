@@ -4,11 +4,11 @@ opt_dataset:
   use_color: gray
   crop: False
   name: tcga
-  source_dataframe: /home/congz3414050/cong/media/data/tcga/source.csv
-  target_dataframe: /home/congz3414050/cong/media/data/tcga/target.csv
-  test_dataframe: /home/congz3414050/cong/media/data/tcga/test.csv
-  train_dataframe: /home/congz3414050/cong/media/data/tcga/train.csv
-  P_mask: /home/congz3414050/cong/media/results/visuals/tcga_3.png
+  source_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/tcga/source.csv
+  target_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/tcga/target.csv
+  test_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/tcga/test.csv
+  train_dataframe: /home/congz3414050/cong/CAGAN_Stain_Norm/data/tcga/train.csv
+  P_mask: /home/congz3414050/cong/CAGAN_Stain_Norm/results/visuals/tcga_3.png
   image_index: 0
   label_index: 1
   num_class: 2

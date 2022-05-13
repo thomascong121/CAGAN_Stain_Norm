@@ -1,6 +1,6 @@
 opt_run:
   stage: test
-  checkpoints_dir: /home/congz3414050/cong/media/results
+  checkpoints_dir: /home/congz3414050/cong/CAGAN_Stain_Norm/results
   continue_train: True
   which_epoch: 0
   lr_G: 0.0001

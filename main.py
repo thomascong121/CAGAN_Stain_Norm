@@ -32,7 +32,9 @@ def main(cfg: DictConfig):
     if cfg.run.opt_run['stage'] == 'test':
         print('Start testing...')
         model.test(test_loader, stage='test', save=True)
-        NMI('/home/congz3414050/cong/media/results/%s/normalised_cam16/%d/test'%(cfg.dataset.opt_dataset['name'], cfg.run.opt_run['which_epoch']))
+        NMI('%s/%s/normalised/%d/test'%(str(cfg.run.opt_run['checkpoints_dir']),
+                                        cfg.dataset.opt_dataset['name'],
+                                        cfg.run.opt_run['which_epoch']))
     else:
         print('Start training...')
         for epoch in range(start_epoch, cfg.run.opt_run['n_epoch'] + 1):
