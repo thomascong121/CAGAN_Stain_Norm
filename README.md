@@ -16,13 +16,13 @@ For classifier training, simply run `python3 classifier.py dataset=cam17 model=c
 Trained Packages
 ====
 We provide several pretrained trained models.
-We also provide our train-test [splits](https://drive.google.com/drive/folders/14eIMNuP2hqJKkJWF_McMKhsbzQpLmEj0?usp=sharing).
+We also provide our train-test [splits](https://drive.google.com/drive/folders/1eveV0teX4GGzUd0C3U8llRrdbhOv2riU?usp=sharing).
 
 | method | Dataset | url |
 |-------------------|-------------------|--------------------|
-| CAGAN | TCGA-IDH | [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) |
-| CAGAN | BreakHis | [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) | 
-| CAGAN | CAMELYON16| [model](https://drive.google.com/file/d/1XN-jyzkBCiYMGUYNHMj3hwusx6ROwh_G/view?usp=sharing) | 
+| CAGAN | TCGA-IDH | [model](https://drive.google.com/drive/folders/1oAdcyQxCCYoTXjKm3gKdjpA9L-aHE9Is?usp=sharing) |
+| CAGAN | BreakHis | [model](https://drive.google.com/drive/folders/12c4feW0YTQNAGHIp8DXZHy39DElYjHEi?usp=sharing) | 
+| CAGAN | CAMELYON16| [model](https://drive.google.com/drive/folders/1TB22uRbxofNKbl6fRKM-t7nRUVWkpAOw?usp=sharing) | 
 
 Reference
 ====
