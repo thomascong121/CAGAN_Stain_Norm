@@ -26,3 +26,11 @@ We also provide our train-test [splits](https://drive.google.com/drive/folders/1
 
 Reference
 ====
+@article{cong2022colour,
+  title={Colour adaptive generative networks for stain normalisation of histopathology images},
+  author={Cong, Cong and Liu, Sidong and Di Ieva, Antonio and Pagnucco, Maurice and Berkovsky, Shlomo and Song, Yang},
+  journal={Medical Image Analysis},
+  pages={102580},
+  year={2022},
+  publisher={Elsevier}
+}
