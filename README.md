@@ -24,8 +24,9 @@ We also provide our train-test [splits](https://drive.google.com/drive/folders/1
 | CAGAN | BreakHis | [model](https://drive.google.com/drive/folders/12c4feW0YTQNAGHIp8DXZHy39DElYjHEi?usp=sharing) | 
 | CAGAN | CAMELYON16| [model](https://drive.google.com/drive/folders/1TB22uRbxofNKbl6fRKM-t7nRUVWkpAOw?usp=sharing) | 
 
-Reference
-====
+## Citing Paper
+Please cite following paper if these codes help your research
+
 @article{cong2022colour,
   title={Colour adaptive generative networks for stain normalisation of histopathology images},
   author={Cong, Cong and Liu, Sidong and Di Ieva, Antonio and Pagnucco, Maurice and Berkovsky, Shlomo and Song, Yang},
